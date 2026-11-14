@@ -1,0 +1,16 @@
+# Local Database
+file_history.db
+
+# Test files and classified data
+test.txt
+test.txt.encrypted
+test.txt.decrypted
+
+# PyInstaller build folders
+build/
+dist/
+main.spec
+
+# Python cache
+__pycache__/
+*.pyc
