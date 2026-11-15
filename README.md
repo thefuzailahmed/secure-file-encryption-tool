@@ -21,8 +21,8 @@ A modern, lightweight desktop application built with Python that allows you to s
 
 ## 📸 Screenshots
 
-*(Add a screenshot of your application here to make your repository stand out!)*
-> `![App Interface](link-to-your-image.png)`
+
+> ![Secure File Encryption Tool UI](Homepage.png)
 
 ---
 
