@@ -1,5 +1,6 @@
 # 🔒 Secure File Encryption Tool
 
+[![Download for Windows](https://img.shields.io/badge/Download-Windows_EXE-blue?style=for-the-badge&logo=windows)](https://github.com/thefuzailahmed/secure-file-encryption-tool/releases/latest)
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-blueviolet?style=for-the-badge)
 ![Cryptography](https://img.shields.io/badge/Security-Fernet_AES-green?style=for-the-badge)
